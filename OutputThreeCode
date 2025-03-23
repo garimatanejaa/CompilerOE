@@ -1,0 +1,13 @@
+a = 5
+b = 3
+T1 = a > 2
+if T1 goto L1
+goto L2
+L1:
+T2 = a + 1
+a = T2
+goto L3
+L2:
+T3 = a - 1
+a = T3
+L3:

@@ -1,0 +1,18 @@
+MOV R1, 5
+MOV a, R1
+MOV R2, 3
+MOV b, R2
+MOV R3, a > 2
+MOV T1, R3
+JUMP_IF T1 goto L1
+JUMP L2
+L1:
+MOV R4, a + 1
+MOV a, R4
+JUMP L3
+L2:
+MOV R5, a - 1
+MOV a, R5
+L3:
+MOV R6, a
+RETURN R6

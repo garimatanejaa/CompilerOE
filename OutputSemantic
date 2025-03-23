@@ -1,0 +1,31 @@
+Program 'Main' declared at line 1
+Keyword 'int' used at line 1
+Declared variable 'main' of type 'int' at line 1
+Identifier 'main' used at line 1
+Keyword 'int' used at line 2
+Declared variable 'a' of type 'int' at line 2
+Identifier 'a' used at line 2
+Operator '=' used at line 2
+Number '5' used at line 52
+Keyword 'float' used at line 3
+Declared variable 'b' of type 'float' at line 3
+Identifier 'b' used at line 3
+Operator '=' used at line 3
+Number '3' used at line 33
+Keyword 'if' used at line 4
+Identifier 'a' used at line 4
+Operator '>' used at line 4
+Number '2' used at line 24
+Identifier 'a' used at line 5
+Operator '=' used at line 5
+Identifier 'a' used at line 5
+Operator '+' used at line 5
+Number '1' used at line 15
+Keyword 'else' used at line 6
+Identifier 'a' used at line 7
+Operator '=' used at line 7
+Identifier 'a' used at line 7
+Operator '-' used at line 7
+Number '1' used at line 17
+Keyword 'return' used at line 9
+Identifier 'a' used at line 9

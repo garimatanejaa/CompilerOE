@@ -1,0 +1,12 @@
+a = 5
+b = 3
+T1 = a > 2
+if T1 goto L1
+goto L2
+L1:
+a = a + 1
+goto L3
+L2:
+a = a - 1
+L3:
+return a
